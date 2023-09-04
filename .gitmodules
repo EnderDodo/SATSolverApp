@@ -1,0 +1,3 @@
+[submodule "SATSolverLib"]
+	path = SATSolverLib
+	url = https://github.com/EnderDodo/SATSolverLib.git

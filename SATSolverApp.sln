@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATSolverApp", "SATSolverApp\SATSolverApp.csproj", "{7CD9789F-275F-4C06-8684-52898B904F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SATSolverLib", "SATSolverLib\SATSolverLib\SATSolverLib.csproj", "{56F45AF2-F273-4A87-8EC6-20CDEE5E13FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD9789F-275F-4C06-8684-52898B904F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD9789F-275F-4C06-8684-52898B904F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD9789F-275F-4C06-8684-52898B904F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD9789F-275F-4C06-8684-52898B904F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56F45AF2-F273-4A87-8EC6-20CDEE5E13FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56F45AF2-F273-4A87-8EC6-20CDEE5E13FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56F45AF2-F273-4A87-8EC6-20CDEE5E13FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56F45AF2-F273-4A87-8EC6-20CDEE5E13FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
