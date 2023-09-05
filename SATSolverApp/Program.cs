@@ -1,15 +1,7 @@
 ﻿using SATSolverLib;
 using System.Text;
 
-switch (args.Length)
-{
-    case 0:
-        throw new ArgumentException("File path is not found");
-    case > 1:
-        throw new ArgumentException("There are more than one file paths");
-}
-
-var filePath = args[0];
+var filePath = "C:/Users/Denis/Documents/RiderProjects/SATSolverLib/TestApp/TestFiles/sat_100_449.txt";
 
 if (!File.Exists(filePath))
     throw new ArgumentException($"File on path {filePath} does not exist");
